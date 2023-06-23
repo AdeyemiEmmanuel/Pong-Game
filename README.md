@@ -17,3 +17,4 @@ Pong Game is a simple implementation of the classic Pong arcade game using Pytho
 ##### • The game ends when one player reaches the specified score limit.
 
 ## Preview:
+![Screenshot (183)](https://github.com/AdeyemiEmmanuel/Pong-Game/assets/98936329/9c6038d2-31ad-4547-8a18-c6716a4eac35)
